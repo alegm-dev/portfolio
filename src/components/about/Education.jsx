@@ -11,7 +11,7 @@ const educationContent = [
     year: "2019",
     degree: "PROGRAMACION INFORMATICA",
     institute: "UNSAM",
-    details: `Por temas de horario de trabajo tuve que posponer para mas adelante los estudios.`,
+    details: `Materias de segundo año en curso.`,
   },
 
   {
