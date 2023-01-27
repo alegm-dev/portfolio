@@ -71,9 +71,9 @@ const Hero = () => {
             <div data-aos="fade-up" data-aos-duration="1200">
               <div className="title-section text-left text-sm-center">
                 <h1>
-                  ABOUT <span>ME</span>
+                  SOBRE <span>MI</span>
                 </h1>
-                <span className="title-bg">Resume</span>
+                <span className="title-bg">Resumen</span>
               </div>
               {/* End title */}
               <Index />
