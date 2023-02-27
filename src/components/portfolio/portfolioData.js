@@ -34,7 +34,7 @@ const PortfolioData = [
         client: "Proyecto Personal",
         language: " HTML, CSS, Javascript, API",
         preview: "generador-codigo-qr",
-        link: "https://wwww.generador-codigo-qr.vercel.app",
+        link: "https://generador-codigo-qr.vercel.app/",
       },
     ],
   },
